@@ -15,7 +15,7 @@
 Welcome to my personal Linux workspace. This system is built on a centralized symlink architecture to keep the base system entirely clean and scalable. Unlike traditional monolithic configs, this setup utilizes **UWSM** (Universal Wayland Session Manager) to handle the environment startup independently, resulting in an ultra-lightweight compositor configuration.
 
 ## 🖼️ The Setup
-![Desktop Preview](assets/desktop.png)
+![Desktop Preview](assets/dekstop.png)
 
 ---
 
